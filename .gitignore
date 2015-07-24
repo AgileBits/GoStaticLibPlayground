@@ -42,3 +42,11 @@ HelloWin32/lib/libgo.h
 HelloAndroid/lib/libgo.h
 
 HelloAndroid/lib/libgo.a
+
+HelloWin64/lib/libgo.dll
+
+HelloWin32/lib/libgo.dll
+
+HelloWin32/lib/libgo.a
+
+HelloWin64/lib/libgo.a
