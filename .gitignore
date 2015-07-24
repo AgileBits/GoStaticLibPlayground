@@ -30,3 +30,15 @@ DerivedData
 HelloGo/lib/libgo.h
 
 HelloGo/lib/libgo.a
+
+HelloWin64/lib/libgo.lib
+
+HelloWin32/lib/libgo.lib
+
+HelloWin64/lib/libgo.h
+
+HelloWin32/lib/libgo.h
+
+HelloAndroid/lib/libgo.h
+
+HelloAndroid/lib/libgo.a
